@@ -1,0 +1,11 @@
+﻿0f462a1b-2d75-43c2-889a-6f140df758d3-->und\0f462a1b-2d75-43c2-889a-6f140df758d3
+0f462a1b-2d75-43c2-889a-6f140df758d3.0-->Form\ФормаФормированияПакетаДокументов
+48fa867f-1d33-4889-9059-b4a6b3b9cb89-->und\48fa867f-1d33-4889-9059-b4a6b3b9cb89
+84ea053f-6b4c-4def-8e6c-0ae603f1d849-->und\84ea053f-6b4c-4def-8e6c-0ae603f1d849
+84ea053f-6b4c-4def-8e6c-0ae603f1d849.0-->Form\Форма
+copyinfo-->und\copyinfo
+e23414a3-0cc9-4267-a524-b89c11143aa4.0\info-->und\e23414a3-0cc9-4267-a524-b89c11143aa4.0\info
+e23414a3-0cc9-4267-a524-b89c11143aa4.0\text-->ObjectModule.bsl
+root-->und\root
+version-->und\version
+versions-->und\versions
